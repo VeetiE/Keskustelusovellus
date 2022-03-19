@@ -7,3 +7,4 @@
 ### -Käyttäjä voi hakea viestejä eri kriteerien perusteella.
 ### -Käyttäjä voi rajata ketkä kaikki voivat osallistua hänen luomaan ketjuun.
 ### -Ylläpitäjä pystyy poistamaan muiden tekemiä ketjuja ja viestejä.
+### -Käyttäjät pystyvät antamaan tykkäyksen tai vähentämään tykkäyksen muiden käyttäjien laittamista viesteistä.
