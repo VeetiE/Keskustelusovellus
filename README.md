@@ -4,6 +4,6 @@
 ### -Aihealueiden vieressä näkyy viestien määrä ja viimeisimmän viestin ajankohta.
 ### -Käyttäjä voi aloittaa uuden ketjun tai lisätä olemassa olevaan ketjuun.
 ### -Käyttäjä voi muokata tai poistaa oman ketjun tai viestin.
-### -Käyttäjä voi hakea viestejä sanojen avulla.
+### -Käyttäjä voi hakea viestejä eri kriteerien perusteella.
 ### -Käyttäjä voi rajata ketkä kaikki voivat osallistua hänen luomaan ketjuun.
 ### -Ylläpitäjä pystyy poistamaan muiden tekemiä ketjuja ja viestejä.
